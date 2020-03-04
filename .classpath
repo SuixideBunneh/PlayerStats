@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/mmdnad01/Downloads/mobcoins-api-1.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmdnad01/Downloads/PlayTimes-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmdnad01/Downloads/ProCosmetics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmdnad01/Downloads/SuperiorSkyblockAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmdnad01/Downloads/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmdnad01/Documents/Java Workplace/Post/hub.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmdnad01/Downloads/TempFly.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmdnad01/Downloads/lombok.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,16 @@
+name: playerstats
+author: ThePickX
+version: 1.0
+main: com.thepickx.PlayerStats.Main
+description: Show stats for the player
+api-version: 1.13
+depend:
+- Vault
+- ProCosmetics
+- SuperiorSkyblock2
+- SuperMobCoins
+- TempFly
+- Playtimes
+commands:
+   pstats:
+      description: Show stats for the player
